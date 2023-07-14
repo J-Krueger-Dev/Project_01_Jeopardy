@@ -1,0 +1,55 @@
+
+body{
+  background-color: firebrick;
+  
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 100px;
+  font-style: italic;
+}
+
+footer{
+  display: flex ;
+  flex-direction: column;
+  align-items: center;
+}
+
+img{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 325px;
+  
+}
+
+a{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px
+ 
+}
+
+.btn{
+  border: 5px;
+  border-style: solid;
+  border-color: black;
+  box-sizing: border-box;
+}
+
+a:link{
+  color: white;
+}
+
+a:hover{
+  color: white;
+}
+
+
+
+
+ 
