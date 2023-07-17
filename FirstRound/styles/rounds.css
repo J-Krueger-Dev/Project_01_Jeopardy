@@ -1,0 +1,22 @@
+body{
+  background-color: crimson;
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 100px;
+  font-style: italic;
+}
+
+h1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
