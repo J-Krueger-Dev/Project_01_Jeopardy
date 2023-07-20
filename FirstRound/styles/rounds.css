@@ -10,6 +10,11 @@ header{
   font-style: italic;
 }
 
+footer{
+  display: flex ;
+  flex-direction: column;
+  align-items: center;
+}
 h1{
   display: flex;
   flex-direction: column;
@@ -19,4 +24,15 @@ h1{
 .container{
   display: flex;
   flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 15%;
+  border: color(black);
+  border-style: double; 
+}
+
+.value{
+  border-style: double;
+
 }

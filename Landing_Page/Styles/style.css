@@ -1,6 +1,6 @@
 
 body{
-  background-color: firebrick;
+  background-color: crimson;
   
 }
 
@@ -34,7 +34,8 @@ a{
  
 }
 
-.btn{
+.button{
+  display: flex;
   border: 5px;
   border-style: solid;
   border-color: black;
