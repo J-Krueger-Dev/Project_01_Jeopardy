@@ -26,12 +26,12 @@ h1{
   grid-template-columns: repeat(6, 1fr);
   grid-template-rows: repeat(6, 1fr);
   justify-content: end;
-  gap: 5px;
   border-style:groove;
   border-color: black;
 }
 
 .value{
+  display: grid;
   border-style: groove;
   border-color: black;
   display:flex ;
